@@ -1,1 +1,2 @@
-ffrj
+limit.max: 5
+limit.min: 995
